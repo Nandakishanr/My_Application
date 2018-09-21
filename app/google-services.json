@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "489871047086",
+    "firebase_url": "https://myapplication-e8baf.firebaseio.com",
+    "project_id": "myapplication-e8baf",
+    "storage_bucket": "myapplication-e8baf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:489871047086:android:82d622c663957185",
+        "android_client_info": {
+          "package_name": "com.manvish.my_application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "489871047086-r0j2b8om68b4lmchj3ikvge475i8vs3f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBz9EbWEy5Ler3d9a6oeeS5dgvgQ09uROg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

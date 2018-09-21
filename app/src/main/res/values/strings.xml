@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">My_Application</string>
+
+    <!-- Strings related to login -->
+
+    <string name="btn_back"><![CDATA[<< Back]]></string>
+    <string name="forgot_password">Forgot password?</string>
+    <string name="forgot_password_msg">Enter Registered Email Id to reset the password</string>
+    <string name="hint_email">Email</string>
+    <string name="auth_failed">Authentication failed, check your password and password or sign up</string>
+    <string name="minimum_password">Password too short, enter minimum 6 characters!</string>
+    <string name="btn_link_to_login">Already registered. Login Me!</string>
+    <string name="btn_forgot_password">Forgot your password?</string>
+    <string name="btn_reset_password">Reset Password</string>
+    <string name="btn_link_to_register">No account yet? Create one</string>
+    <string name="logged_out_msg">Please click BACK again to exit\nYou will be Logged out from account</string>
+    <string name="warning_dialog_msg">Error occurred while fetching Videos\nDo you want to try again?</string>
+    <string name="error_dialog_msg">Error occurred while fetching Videos</string>
+    <string name="no_connectivity_msg">No Network\nDo you want to try reload Video?</string>
+    <string name="Warning">Warning</string>
+    <string name="Cancel">Cancel</string>
+    <string name="TryAgain">Try Again</string>
+    <string name="ok">OK</string>
+    <string name="email_empty_msg">Email address cannot be Empty!</string>
+    <string name="pswrd_empty_msg">Password address cannot be Empty!</string>
+    <string name="pswrd_too_short_msg">Password too short, enter minimum 6 characters!</string>
+    <string name="SUCCESS">SUCCESS</string>
+    <string name="preparing_video">Preparing Video…</string>
+</resources>
